@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "JF Hugues"
+  name   : "JF Hugo"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Nous sommes les créateurs de cette bande dessinée."
   links:
