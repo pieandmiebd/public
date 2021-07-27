@@ -17,3 +17,5 @@ Waiting JFH ! Les vraies images :)
 <br>
 <br>
 ![En attendant les vraies images](https://cdn.shopify.com/s/files/1/0095/8208/4158/files/Capture_d_ecran_le_2019-08-31_a_14.38.52_large.png)
+
+<meta property=”og:image” content=”https://cdn.shopify.com/s/files/1/0095/8208/4158/files/Capture_d_ecran_le_2019-08-31_a_14.38.52_large.png)”/>
