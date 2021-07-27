@@ -10,4 +10,6 @@ Si vous souhaitez diffusez ces images, contactez nous à <pieandmiebd@gmail.com>
 En revanche, vous avez notre bénédiction pour partagez les liens web de toutes ces histoires :).
 <br>
 <br>
-Bien à vous.
+Bien à vous, 
+<br>
+JF Hugo
