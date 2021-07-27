@@ -7,4 +7,4 @@ tags:
   - presentation
 ---
 
-**PIE** (**P**etite **I**ntelligence **E**motive) est un humain comme vous et moi, et son passe temps favori est de poser des questions à son ordinateur **MIE**, (**M**éga **I**intelligence **E**mergente).
+**PIE** (**P**etite **I**ntelligence **E**motive) est un humain comme vous et moi, et son passe temps favori est de poser des questions à son ordinateur **MIE** (**M**éga **I**intelligence **E**mergente).
