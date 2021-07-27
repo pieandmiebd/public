@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "JF Hugo"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Nous sommes les créateurs de cette bande dessinée."
+  bio    : "Nous sommes les créateurs de ces histoires."
   links:
     #- label: "Website"
      # icon: "fas fa-fw fa-link"
