@@ -7,7 +7,7 @@ Toutes les histoires de ce site sont protégées par le code de la propriété i
 Si vous souhaitez diffusez les **images sources**, contactez nous à <pieandmiebd@gmail.com>.
 <br>
 <br>
-En revanche, vous avez notre bénédiction pour **partagez les liens web** de toutes ces histoires :).
+En revanche, vous avez notre bénédiction pour **partager les liens web** de toutes ces histoires :).
 <br>
 <br>
 Bien à vous, 
