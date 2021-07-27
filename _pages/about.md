@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "A propos"
 ---
 
 Toutes les histoires de ce site sont protégées par le code de la propriété intellectuelle.
