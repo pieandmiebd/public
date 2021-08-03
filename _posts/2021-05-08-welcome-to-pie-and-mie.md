@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Qui est PIE ? Qui est MIE ?"
 date: 2021-05-08T15:34:30-04:00
 image: https://cdn.shopify.com/s/files/1/0095/8208/4158/files/Capture_d_ecran_le_2019-08-31_a_14.38.52_large.png
