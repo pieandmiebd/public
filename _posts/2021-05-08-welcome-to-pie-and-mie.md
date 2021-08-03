@@ -5,10 +5,7 @@ categories:
   - blog
 tags:
   - presentation
-image:
-    path: https://cdn.shopify.com/s/files/1/0095/8208/4158/files/Capture_d_ecran_le_2019-08-31_a_14.38.52_large.png
-    width: 500
-    height: 500
+image: https://cdn.shopify.com/s/files/1/0095/8208/4158/files/Capture_d_ecran_le_2019-08-31_a_14.38.52_large.png
 ---
 
 **PIE** (**P**etite **I**ntelligence **E**motive) est un humain ordinaire comme vous et moi. <br>
